@@ -4,5 +4,5 @@ using namespace std;
 
 void hola(){
 
-	printf("HOLA MUNEDO");
+	printf("HOLA MUNDO");
 }
